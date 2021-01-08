@@ -1,0 +1,13 @@
+{
+  "domain": "xiaomi_miot_heatcold",
+  "name": "Custom component to support HeatCold electric floor controller",
+  "documentation": "",
+  "requirements": [
+    "construct==2.9.45",
+    "python-miio>=0.4.8"
+  ],
+  "dependencies": [],
+  "codeowners": [
+    "@SpeedFire0:"
+  ]
+}
