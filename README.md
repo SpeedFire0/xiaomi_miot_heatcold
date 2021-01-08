@@ -18,6 +18,7 @@ switch:
 Configuration variables (switch platform):
 
 host (Required): The IP of your miio device.
+
 token (Required): The API token of your miio device.
 
 # Modification
