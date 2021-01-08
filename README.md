@@ -1,5 +1,5 @@
-# xiaomi_miot_heatcold
-A simple example of a Home Assistant extension for Xiaomi HeatCold heating floor controller as a switch.
+# Xiaomi MIOT HeatCold
+A simple example of a Home Assistant extension for Xiaomi HeatCold heating floor controller (cubee.airrtc.th123e) as a switch.
 This only switches on/off the device.
 
 # Install
